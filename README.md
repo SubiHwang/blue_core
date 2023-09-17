@@ -34,7 +34,8 @@ develop	: 작업 브랜치
 • 프로젝트의 default 브랜치입니다.	
 • 해당 브랜치에서 feature 브랜치가 분기됩니다.	
 
-feature	기능 단위 구현
+feature	: 기능 단위 구현
+
 • 개별 개발자가 맡은 작업을 개발하는 브랜치입니다.	
 • feature/(feature-name)처럼 머릿말-꼬릿말(개발하는 기능)으로 명명합니다.	
 • kebab-case 네이밍 규칙을 준수합니다.	
