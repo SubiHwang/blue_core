@@ -22,11 +22,14 @@ AI 기반 청각장애인을 위한 소리 감지 시스템 개발용 repository
 main ── develop ── feature
 ```
 Brach name	description
-main	배포 중인 서비스 브랜치
+
+main	: 배포 중인 서비스 브랜치
+
 • 실제 서비스가 이루어지는 브랜치입니다.	
 • 해당 브랜치를 기준으로 develop 브랜치가 분기됩니다.	
 
-develop	작업 브랜치
+develop	: 작업 브랜치
+
 • 개발, 테스트, 릴리즈 등 배포 전 단계의 기준이 되는 브랜치입니다.	
 • 프로젝트의 default 브랜치입니다.	
 • 해당 브랜치에서 feature 브랜치가 분기됩니다.	
