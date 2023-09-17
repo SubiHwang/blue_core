@@ -1,5 +1,5 @@
 # blue_core
-AI 기반 청각장애인을 위한 소리 감지 시스템 개발용 repository 입니다.
+<span style="Color:LightBlue"> AI 기반 청각장애인을 위한 소리 감지 시스템 개발용 </span> repository 입니다.
 
 👾 멤버
 - 변민정(PM, 웹앱 제작)
@@ -32,7 +32,6 @@ main	: 배포 중인 서비스 브랜치
 develop	: 작업 브랜치
 
 • 개발, 테스트, 릴리즈 등 배포 전 단계의 기준이 되는 브랜치입니다.	
-
 
 • 해당 브랜치에서 feature 브랜치가 분기됩니다.	
 
